@@ -1,0 +1,21 @@
+File: simple_somatic_mutation.open.BLCA-CN.tsv.gz
+
+Counts of unique icgc_mutation_id by mutation patterns
+
+mutated_from_allele mutated_to_allele  Count of unique_mutation_id
+                  A                 C                          446
+                  A                 G                          923
+                  A                 T                          467
+                  C                 A                          811
+                  C                 G                         1404
+                  C                 T                         3805
+                  G                 A                         3620
+                  G                 C                         1376
+                  G                 T                          660
+                  T                 A                          460
+                  T                 C                          923
+                  T                 G                          583
+
+icgc_sample_id SA514800 has highest unique icgc_mutation_id count of 583
+
+icgc_sample_id SA514876 has lowest unique icgc_mutation_id count of 14
